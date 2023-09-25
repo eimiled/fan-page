@@ -1,0 +1,27 @@
+body {
+    background-color: darkcyan;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+blockquote{
+   font-style: italic;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+
+form{
+    text-align: left;
+    background-color: antiquewhite;
+}
+
